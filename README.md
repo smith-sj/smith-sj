@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smith-sj
-- 🌱 I’m currently learning Full-Stack Web Development @ Coder Academy
+- 🌱 Junior Web Developer - looking for new opportunities!
 
 <!---
 smith-sj/smith-sj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
