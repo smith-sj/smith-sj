@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @smith-sj
-- 🌱 Junior Web Developer - looking for new opportunities!
+I'm a software engineer, musician and tech enthusiast based in Melbourne, Australia.
 
-<!---
-smith-sj/smith-sj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I also enjoy photography, making bread, my dog and sometimes my cat.
+
+Say 👋 at hello@sjsmith.dev and follow me on Bluesky.
